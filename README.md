@@ -8,7 +8,7 @@ Type a topic (like `exams`, `engineers`, `coding`) — and get a setup + punchli
 
 ## ⚙️ Features
 
-- 🔥 Free AI text generation with **no credit card**
+- 🔥 Free AI text generation
 - 💬 Joke rendered using `fetch()` with clean `async/await` logic
 - 🎯 Topic-based generation (you control the prompt)
 - 🪄 Optional: typewriter effect or setup/punchline split
